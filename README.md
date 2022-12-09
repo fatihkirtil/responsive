@@ -2,4 +2,5 @@
 
 Responsive website for book sale
 
-![](assets/books.gif)# responsive
+![](books.gif)# responsive
+# responsive
